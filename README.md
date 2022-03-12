@@ -75,3 +75,6 @@
     <img src="https://komarev.com/ghpvc/?username=VaishnaviVhora10">
 </a>
 <a href="https://github.com/VaishnaviVhora10?tab=followers"><img src="https://img.shields.io/github/followers/VaishnaviVhora10?label=Followers&style=social" alt="GitHub Badge"></a>
+
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/VaishnaviVhora10/VaishnaviVhora10/blob/output/github-contribution-grid-snake.gif)
